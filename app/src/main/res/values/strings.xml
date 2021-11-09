@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">sernatur</string>
+    <string-array name="lugares">
+        <item>...</item>
+        <item>ROMA</item>
+        <item>PARIS</item>
+        <item>LIMA</item>
+    </string-array>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
